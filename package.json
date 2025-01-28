@@ -1,0 +1,22 @@
+{
+  "name": "smartedu",
+  "version": "1.0.0",
+  "description": "Education Portal",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "education",
+    "portal",
+    "node.js"
+  ],
+  "author": "Halil Dayi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*"
+  },
+  "devDependencies": {
+    "nodemon": "*"
+  }
+}
